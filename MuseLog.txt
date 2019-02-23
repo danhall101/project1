@@ -1,0 +1,10 @@
+Logging in build 2018.1.0.266 started at: Thu May 24 11:05:29 2018
+========================================
+[00:01:00.735] 11:07:03.532 | Error - IMS : No AdobeID signed in
+[00:02:49.797] 11:08:52.785 | quitWithUI:Quitting Application. Called by: 
+[00:02:49.797] 11:08:52.785 | Quitting Application after 2.1 minutes. Called by: 
+[00:03:00.360] Logging shutdown normally
+
+==========
+Logging ended at: Thu May 24 11:09:07 2018
+
